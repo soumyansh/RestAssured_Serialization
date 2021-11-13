@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5845" started-at="2021-07-07T11:33:49Z" finished-at="2021-07-07T11:33:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5845" started-at="2021-07-07T11:33:49Z" finished-at="2021-07-07T11:33:55Z">
+      <class name="pojo_and_others.StudentApi_Serialization">
+        <test-method status="PASS" signature="createNewStudentSerialization()[pri:1, instance:pojo_and_others.StudentApi_Serialization@28d25987]" name="createNewStudentSerialization" duration-ms="5486" started-at="2021-07-07T11:33:49Z" finished-at="2021-07-07T11:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewStudentSerialization -->
+        <test-method status="PASS" signature="getStudentRecord_Deserialization()[pri:2, instance:pojo_and_others.StudentApi_Serialization@28d25987]" name="getStudentRecord_Deserialization" duration-ms="305" started-at="2021-07-07T11:33:55Z" finished-at="2021-07-07T11:33:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getStudentRecord_Deserialization -->
+      </class> <!-- pojo_and_others.StudentApi_Serialization -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
